@@ -1,0 +1,3 @@
+use user;
+db.info.createIndex({'name': 1});
+db.log.createIndex({'name': 1});
